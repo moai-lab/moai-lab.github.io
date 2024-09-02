@@ -20,8 +20,9 @@ order: 1
       {% endfor %}
     </div>
     {% endfor %}
-    <h2 class="category">Alumni</h2>
-      <ul>
-        <li><a href="https://curie3170.github.io/" target="_blank">Curie Kim</a> (Research Staff, 2022-2023) → Ph.D. Course@University of Maryland</li>
-      </ul>
+    <!--h2 class="category">Alumni</h2-->
+      <!--ul>
+        <li><a href="https://curie3170.github.io/" target="_blank">Alumi 1</a> (Research Staff, 2022-2023) → Ph.D. Course@University of Maryland</li>
+        <li><a href="https://curie3170.github.io/" target="_blank">Alumi 2</a> (Research Staff, 2022-2023) → Ph.D. Course@University of Maryland</li>
+      </ul-->
 </div>

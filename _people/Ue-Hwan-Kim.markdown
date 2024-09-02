@@ -1,8 +1,8 @@
 ---
 layout: people
-name: Ue-Hwan Kim
+name: Ki-In Na
 role: Assistant Professor
-email: uehwan@gist.ac.kr
+email: kina@seoultech.ac.kr
 img: /assets/img/prof_pic.png
 sequence: 1
 redirect: # /people/1_professor
@@ -10,8 +10,8 @@ category: Faculty
 ---
 
 Assistant Professor <br/>
-[AI Graduate School](https://ai.gist.ac.kr){:target="\_blank"} <br/>
-[Gwangju Institue of Science and Technology](https://www.gist.ac.kr/){:target="\_blank"}
+[Dept. Mechanical System Design Engineering](https://msd.seoultech.ac.kr/en/){:target="\_blank"} <br/>
+[Seoul National University of Science and Technology](https://en.seoultech.ac.kr/){:target="\_blank"}
 
 <br/>
 
@@ -24,13 +24,11 @@ Assistant Professor <br/>
 > ###### Korea Advanced Institute of Science and Technology (KAIST), 2013 ~ 2015
 > ###### M.S. in Electrical Engineering
 > ###### Thesis: Advanced MR Venography Using Multi-Echo Technique
-> ###### Advisor: Hyunwook Park
+> ###### Advisor: Jong-Hwan Kim
 
 > ###### Korea Advanced Institute of Science and Technology (KAIST), 2009 ~ 2013
 > ###### B.S. in Electrical Engineering
 > ###### Advisor: Chulsoon Park
-
-🙂 I also went to [HAFS](http://www.hafs.hs.kr/)!
 
 <br/>
 ## Selected Honors
@@ -70,6 +68,6 @@ Assistant Professor <br/>
 
 <br/>
 ## Contact
-Email: uehwan@gist.ac.kr <br/>
+Email: kina@seoultech.ac.kr <br/>
 Phone: 82-62-715-6384 <br/>
-Office: C11-407
+Office: Eoui-615
