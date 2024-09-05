@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 
 **Welcome to MoAI!** MoAI is located at Eoui-615, [Dept. of Mechanical System Design Engineering](https://ai.gist.ac.kr){:target="\_blank"}, [SeoulTech](https://www.seoultech.ac.kr/){:target="\_blank"}, Seoul, Republic of Korea.
 
-Our research mainly focuse on motion and action intelligences for robot applications such as navigation and manipulation. Currently, we are focusing on
+Our research mainly focuse on motion and action intelligences for robot applications such as navigation and manipulation. 
 1. ***Motion Intelligence***, which are essential to recognize surroudings in dynamic environment and generate intelligent robot motion for navigation and manipulation, and
 2. ***Action Intelligence***, which makes decisions and generates actions autonomously to complete tasks efficiently by adapting to changing situation based on multi-modal inputs such as vision and langauage.
 3. ***Robot Applications***, which applies advanced motion and action intelligences for navigation and manipulation to various robot platforms.
