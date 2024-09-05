@@ -16,37 +16,56 @@ Assistant Professor <br/>
 <br/>
 
 ## Education
-> ###### Korea Advanced Institute of Science and Technology (KAIST), 2015 ~ 2020
-> ###### Ph.D. in Electrical Engineering
-> ###### Thesis: Long-Term Episodic and Semantic Memories with Application to Home Service Robot-IoT
-> ###### Advisor: Jong-Hwan Kim
+> ###### Korea Advanced Institute of Science and Technology (KAIST), Feb. 2018 ~ Aug. 2022
+> ###### Ph.D. in Robotics Program
+> ###### Thesis: Adaptive 3D Object Tracking and Socio-Physically Acceptable Human Trajectory Prediction Using BERT for Social Navigation
+> ###### Advisor: Prof. Jong-Hwan Kim
 
-> ###### Korea Advanced Institute of Science and Technology (KAIST), 2013 ~ 2015
-> ###### M.S. in Electrical Engineering
+> ###### Korea Advanced Institute of Science and Technology (KAIST), Feb. 2009 ~ Feb. 2011
+> ###### M.S. in Robotics Program
 > ###### Thesis: Advanced MR Venography Using Multi-Echo Technique
-> ###### Advisor: Jong-Hwan Kim
+> ###### Advisor: Prof. Jong-Hwan Kim
 
-> ###### Korea Advanced Institute of Science and Technology (KAIST), 2009 ~ 2013
-> ###### B.S. in Electrical Engineering
-> ###### Advisor: Chulsoon Park
+> ###### Pohang University of Science and Technology (POSTECH), Feb. 2009 ~ Feb. 2013
+> ###### B.S. in Mechanical Engineering 
+> ###### Thesis: Chess Mate (Best Design Award), Graduated with Honors (Magna Cum Laude) 
 
-<br/>
-## Selected Honors
-- Best research achievement award from KAIST EE, June 2020.
-- Research Highlights of the year (2020), KAIST, Feb. 2020
+## Work Experience
+> ###### Electronics and Telecommunications Research Institute (ETRI), Feb. 2011 ~ Aug. 2024
+> ###### Mobility·Robot Research Division, Field Robotics Research Section
+> ###### Principal Researcher
 
-<br/>
-## Selected Service
-- Program Committee
-  - Financial Chair, IV 2024
-  - Associate Editors, UR 2023, 2024
-  - Publication Chair, RiTA 2023
-  - Publication Chair, KRoC 2023, 2024
-  - Editorial Board, ICROS 2022, 2023, 2024
-  - Publicity Chair, RiTA 2021
-  - Session Chair, ICCAS 2021
+> ###### Korea Robotic Society (KRoC), Daejeon Chungcheong Chapter, Jan. 2022 ~ Dec. 2022
+> ###### Vice Chairman
 
-<br />
+> ###### Robot Intelligence Technology Lab, KAIST, Feb. 2009 - Feb. 2011
+> ###### Research Assistant
+
+> ###### Robotics and Bio-mechatronics Lab, POSTECH, Mar. 2008 ~ Jun. 2008
+> ###### Undergraduate Research Assistant
+
+> ###### Nano and BioMEMS Lab, POSTECH, Jan. 2006 ~ Feb. 2006
+> ###### Undergraduate Research Assistant
+
+
+
+<!--<br/>-->
+<!-- ## Selected Honors -->
+<!-- - Best research achievement award from KAIST EE, June 2020.-->
+<!-- - Research Highlights of the year (2020), KAIST, Feb. 2020 -->
+
+<!--<br/>-->
+<!--## Selected Service -->
+<!--- Program Committee -->
+  <!-- - Financial Chair, IV 2024 -->
+  <!-- Associate Editors, UR 2024 -->
+  <!-- - Publication Chair, RiTA 2023 -->
+  <!--- Publication Chair, KRoC 2023, 2024 -->
+  <!--- Editorial Board, ICROS 2022, 2023, 2024 -->
+  <!--- Publicity Chair, RiTA 2021 -->
+  <!--- Session Chair, ICCAS 2021 -->
+
+<!-- <br />
 ## Invited Talks
 **3D Scene Understanding for Collaborative AI Bots**
 - Seminar at GIST-ETRI AI Workshop, Aug. 16, 2023.
@@ -64,7 +83,7 @@ Assistant Professor <br/>
 - Seminar at Institute of Control, Robotics and Systems (ICROS), Jun. 23, 2022.
 - Seminar at Cho Chun Shik Graduate School of Green Transportation, KAIST, Mar. 3, 2022.
 - Seminar at Gwangju and Jeonnam Federation, KOFST, Dec. 22, 2021.
-- Seminar at Intelligent Image Processing Research Center, KETI, Nov. 26, 2021.
+- Seminar at Intelligent Image Processing Research Center, KETI, Nov. 26, 2021. -->
 
 <br/>
 ## Contact
