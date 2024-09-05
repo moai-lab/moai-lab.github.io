@@ -1,0 +1,11 @@
+---
+layout: people
+name: Future MoAI Student
+role: Master Course
+email: moai-student@seoultech.ac.kr
+img: /assets/img/moai.png
+sequence: 1220101
+redirect: 
+category: Students
+no_detail: true
+---
